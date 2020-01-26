@@ -1,0 +1,22 @@
+Files ./sample/dir1/file_1.txt and ./sample/dir2/file_1.txt differ
+Files ./sample/dir1/file_10.txt and ./sample/dir2/file_10.txt differ
+Files ./sample/dir1/file_11.txt and ./sample/dir2/file_11.txt differ
+Files ./sample/dir1/file_12.txt and ./sample/dir2/file_12.txt differ
+Files ./sample/dir1/file_13.txt and ./sample/dir2/file_13.txt differ
+Files ./sample/dir1/file_14.txt and ./sample/dir2/file_14.txt differ
+Files ./sample/dir1/file_15.txt and ./sample/dir2/file_15.txt differ
+Files ./sample/dir1/file_16.txt and ./sample/dir2/file_16.txt differ
+Files ./sample/dir1/file_17.txt and ./sample/dir2/file_17.txt differ
+Files ./sample/dir1/file_18.txt and ./sample/dir2/file_18.txt differ
+Files ./sample/dir1/file_19.txt and ./sample/dir2/file_19.txt differ
+Files ./sample/dir1/file_2.txt and ./sample/dir2/file_2.txt differ
+Files ./sample/dir1/file_20.txt and ./sample/dir2/file_20.txt differ
+Files ./sample/dir1/file_3.txt and ./sample/dir2/file_3.txt differ
+Files ./sample/dir1/file_4.txt and ./sample/dir2/file_4.txt differ
+Files ./sample/dir1/file_5.txt and ./sample/dir2/file_5.txt differ
+Files ./sample/dir1/file_6.txt and ./sample/dir2/file_6.txt differ
+Files ./sample/dir1/file_7.txt and ./sample/dir2/file_7.txt differ
+Files ./sample/dir1/file_8.txt and ./sample/dir2/file_8.txt differ
+Files ./sample/dir1/file_9.txt and ./sample/dir2/file_9.txt differ
+Only in ./sample/dir1: file1.txt
+Only in ./sample/dir1: file2.txt
