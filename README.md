@@ -11,3 +11,6 @@ Script to compare  two directories/files
                       will find the difference between two files . But you dont really need a script to do that 
                       You can use diff utility available on all flavour of linux/unix...Never mind !
         
+
+#### Example Usage
+![Example Usage](https://github.com/abhijitmehta/compareDirs/blob/master/sample/compareDirs_Sample.png "Example Usage")
